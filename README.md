@@ -1,4 +1,4 @@
-# hangout
+# WebPack Simple - Vue.js
 
 > A Vue.js project
 
